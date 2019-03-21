@@ -15,8 +15,7 @@ The libraries needed to run the code are the Anaconda distribution of Python. Th
 
 
 ## Project Motivation
-This is the third project of Udacity Data Scientist Nanodegree. In this project, I applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
-
+This is the third project of Udacity Data Scientist Nanodegree. In this project, I applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. Thus, marketing campaigns can be targeted towards these identified segments so as to have the highest expected rate of returns.
 
 
 
@@ -24,7 +23,7 @@ This is the third project of Udacity Data Scientist Nanodegree. In this project,
 
 
 ## File Descriptions
-There are a iPython notebook and a html file to showcase work related to this project. The html file was generated from iPython notebook.
+There are a iPython notebook and a html file to showcase work related to this project. The html file was generated from iPython notebook.The actual data could not be included due to the terms and conditions of AZ Direct GmbH that prohibits using the data in any other context other than during this Udacity course.
 
 ## Results
 
