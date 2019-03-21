@@ -3,11 +3,12 @@
 Udacity Data Scientist Nanodegree Project 3
 
 ## Table of Contents
-1. [Installation](https://github.com/access2abey/Identify-Customer-Segments#Installation)
-2. [Project Motivation](https://github.com/access2abey/Identify-Customer-Segments#Project-Motivation)
-3. [File Descriptions](https://github.com/access2abey/Identify-Customer-Segments#File-Descriptions)
-4. [Results](https://github.com/access2abey/Identify-Customer-Segments#Results)
-5. [Acknowledgements](https://github.com/access2abey/Identify-Customer-Segments#Licensing-Authors-Acknowledgements)
+1. [Installation](https://github.com/access2abey/Udacity-Identify-Customer-Segments-Arvato#Installation)
+2. [Project Motivation](https://github.com/access2abey/Udacity-Identify-Customer-Segments-Arvato#Project-Motivation)
+3. [File Descriptions](https://github.com/access2abey/Udacity-Identify-Customer-Segments-Arvato#File-Descriptions)
+4. [Results](https://github.com/access2abey/Udacity-Identify-Customer-Segments-Arvato#Results)
+5. [Licensing, Authors, Acknowledgements](https://github.com/access2abey/Udacity-Identify-Customer-Segments-Arvato#Licensing-Authors-Acknowledgements)
+
 
 ## Installation
 The libraries needed to run the code are the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
@@ -32,6 +33,7 @@ There are a iPython notebook and a html file to showcase work related to this pr
 * The mail oreder company should target the clusters 2 and 16 where the customers data are over represented and neglect clusters 1,4, 10 where the customers clusters are under represented. 
 * The over-represented customer clusters shows that it belongs to category of older(45-60) and average income earners male. 
 * On the other hand, the customers clusters that are underrepresented belong to the category of younger and average earners females.
+For further details, go [here]
 
 ## Licensing, Authors, Acknowledgements
 Credits must be given to Udacity for providing starting code for this project. The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
