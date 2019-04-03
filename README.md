@@ -32,9 +32,10 @@ There are a iPython notebook and a html file to showcase work related to this pr
 * The mail oreder company should target the clusters 2 and 16 where the customers data are over represented and neglect clusters 1,4, 10 where the customers clusters are under represented. 
 * The over-represented customer clusters shows that it belongs to category of older(45-60) and average income earners male. 
 * On the other hand, the customers clusters that are underrepresented belong to the category of younger and average earners females.
-For further details, go [here]
+For further details, [see jupyter notebook](https://github.com/A-Nuru/Udacity-Identify-Customer-Segments-Arvato/blob/master/Identify_Customer_Segments.ipynb)
 
 ## Licensing, Authors, Acknowledgements
+See license [here](https://github.com/A-Nuru/Udacity-Identify-Customer-Segments-Arvato/blob/master/LICENSE)
 Credits must be given to Udacity for providing starting code for this project. The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
 
 
